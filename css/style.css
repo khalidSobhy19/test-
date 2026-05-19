@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+h1 {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
+
+p {
+    font-size: 35px;
+}
+
+.container .btn {
+    width: 250px;
+    height: 80px;
+    color: white;
+}
